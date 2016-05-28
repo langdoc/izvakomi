@@ -2,8 +2,8 @@
 title: Iźva Komi | Изьватас | Ижемцы
 email: nikotapiopartanen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+#baseurl: "izvakomi" # the subpath of your site, e.g. /blog/
+url: "langdoc.github.io/izvakomi" # the base hostname & protocol for your site
 twitter_username: izvakomi
 github_username:  izvakomi
 
