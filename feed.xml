@@ -3,10 +3,10 @@
   <channel>
     <title>Iźva Komi | Изьватас | Ижемцы</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 May 2016 18:51:21 +0200</pubDate>
-    <lastBuildDate>Sat, 28 May 2016 18:51:21 +0200</lastBuildDate>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 28 May 2016 18:58:56 +0200</pubDate>
+    <lastBuildDate>Sat, 28 May 2016 18:58:56 +0200</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -48,8 +48,8 @@
 &lt;p&gt;Тайӧ гожӧмнас нин кутам уджавны Ижмаын Луд вылын.&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Jun 2015 18:06:13 +0200</pubDate>
-        <link>/kpv/jekyll/update/2015/06/14/nenetsia-eng.html</link>
-        <guid isPermaLink="true">/kpv/jekyll/update/2015/06/14/nenetsia-eng.html</guid>
+        <link>http://yourdomain.com/kpv/jekyll/update/2015/06/14/nenetsia-eng.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/kpv/jekyll/update/2015/06/14/nenetsia-eng.html</guid>
         
         <category>Коми</category>
         
@@ -101,8 +101,8 @@
 &lt;p&gt;During this summer some new fieldwork will be carried out in Ižma.&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Jun 2015 18:06:13 +0200</pubDate>
-        <link>/eng/jekyll/update/2015/06/14/nenetsia-eng.html</link>
-        <guid isPermaLink="true">/eng/jekyll/update/2015/06/14/nenetsia-eng.html</guid>
+        <link>http://yourdomain.com/eng/jekyll/update/2015/06/14/nenetsia-eng.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/eng/jekyll/update/2015/06/14/nenetsia-eng.html</guid>
         
         <category>English</category>
         
@@ -194,8 +194,8 @@
 &lt;/figure&gt;
 </description>
         <pubDate>Sat, 13 Jun 2015 18:06:13 +0200</pubDate>
-        <link>/rus/jekyll/update/2015/06/13/fieldwork-rus.html</link>
-        <guid isPermaLink="true">/rus/jekyll/update/2015/06/13/fieldwork-rus.html</guid>
+        <link>http://yourdomain.com/rus/jekyll/update/2015/06/13/fieldwork-rus.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/rus/jekyll/update/2015/06/13/fieldwork-rus.html</guid>
         
         <category>Русский</category>
         
@@ -319,8 +319,8 @@
 &lt;p&gt;Локтан воясын мӧвпалам нин уджавны войвывсаджык тундраын да Сибирын.&lt;/p&gt;
 </description>
         <pubDate>Sat, 13 Jun 2015 18:06:13 +0200</pubDate>
-        <link>/kpv/jekyll/update/2015/06/13/fieldwork-kpv.html</link>
-        <guid isPermaLink="true">/kpv/jekyll/update/2015/06/13/fieldwork-kpv.html</guid>
+        <link>http://yourdomain.com/kpv/jekyll/update/2015/06/13/fieldwork-kpv.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/kpv/jekyll/update/2015/06/13/fieldwork-kpv.html</guid>
         
         <category>Коми</category>
         
@@ -436,8 +436,8 @@
 &lt;p&gt;During the next years we will work in Nenetsia and Siberia.&lt;/p&gt;
 </description>
         <pubDate>Sat, 13 Jun 2015 18:06:13 +0200</pubDate>
-        <link>/eng/jekyll/update/2015/06/13/fieldwork-eng.html</link>
-        <guid isPermaLink="true">/eng/jekyll/update/2015/06/13/fieldwork-eng.html</guid>
+        <link>http://yourdomain.com/eng/jekyll/update/2015/06/13/fieldwork-eng.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/eng/jekyll/update/2015/06/13/fieldwork-eng.html</guid>
         
         <category>English</category>
         
@@ -455,8 +455,8 @@
         <description>&lt;p&gt;Добро пожаловать с нашим сайтом!&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 18:06:13 +0200</pubDate>
-        <link>/rus/jekyll/update/2015/06/12/welcome-rus.html</link>
-        <guid isPermaLink="true">/rus/jekyll/update/2015/06/12/welcome-rus.html</guid>
+        <link>http://yourdomain.com/rus/jekyll/update/2015/06/12/welcome-rus.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/rus/jekyll/update/2015/06/12/welcome-rus.html</guid>
         
         <category>Русский</category>
         
@@ -483,8 +483,8 @@
 &lt;p&gt;Техническӧй подув: модель, css и html, лэдзӧма Силваин Дуранд (Sylvain Durand) &lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT лисенчияӧн&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 18:06:13 +0200</pubDate>
-        <link>/kpv/jekyll/update/2015/06/12/welcome-kpv.html</link>
-        <guid isPermaLink="true">/kpv/jekyll/update/2015/06/12/welcome-kpv.html</guid>
+        <link>http://yourdomain.com/kpv/jekyll/update/2015/06/12/welcome-kpv.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/kpv/jekyll/update/2015/06/12/welcome-kpv.html</guid>
         
         <category>Коми</category>
         
@@ -513,8 +513,8 @@
 &lt;p&gt;Content, design and codes presented on this website are published under the &lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution&lt;/a&gt; license. This means you can freely reuse them as long as the source is indicated.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 18:06:13 +0200</pubDate>
-        <link>/eng/jekyll/update/2015/06/12/welcome-eng.html</link>
-        <guid isPermaLink="true">/eng/jekyll/update/2015/06/12/welcome-eng.html</guid>
+        <link>http://yourdomain.com/eng/jekyll/update/2015/06/12/welcome-eng.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/eng/jekyll/update/2015/06/12/welcome-eng.html</guid>
         
         <category>English</category>
         
